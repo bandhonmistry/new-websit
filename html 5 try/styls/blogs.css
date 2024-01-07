@@ -1,0 +1,18 @@
+nav > ul > li {
+display: inline;
+margin: 15px;
+
+
+
+}
+nav li >{
+     list-style: none;x;
+    text-decoration: none;
+}
+
+
+footer{
+    margin-right: 10px;
+    padding: 5px;
+    text-decoration: none;
+}
